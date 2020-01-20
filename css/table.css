@@ -1,0 +1,16 @@
+body{
+  color: #999;
+  background-image: url(../img/sample.jpg);
+  font-family: 'Roboto',sans-serif;
+  background-size: cover;
+}
+.d_label{
+   text-align: center;
+   color: white;
+}
+.table{
+  margin: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+}

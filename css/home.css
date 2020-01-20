@@ -1,0 +1,15 @@
+body{
+  color: #999;
+  background-image: url(../img/sample.jpg);
+  font-family: 'Roboto',sans-serif;
+  background-size: cover;
+}
+
+.div1{
+  width:300px;
+  height: 150px;
+
+}
+.d_label{
+  color: white;
+}
